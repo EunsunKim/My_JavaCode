@@ -7,6 +7,12 @@ Expected output...
 
 <img src="./TypingTutor.png" width="640">
 
+2. Temperature conversion app
+* Convert from Fahrenheit to Cesius.  User input from the keyboard(via a JTextField)
+Expected output...
 
-2. Comming soon
-*
+<img src="./TempConvert.png" width="640">
+
+3. Comming soon
+* 
+
