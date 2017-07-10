@@ -20,7 +20,7 @@
 
 3. Java program diagram
 
-<img src="./drawing.svg" width="640">
+<img src="./drawing.png" width="640">
 
 4. Comming soon
 * 
